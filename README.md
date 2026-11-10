@@ -51,10 +51,22 @@
 
 ---
 
-## 🛠️ Core Toolkit
+## Core toolkit
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=abhincoder&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138795048%3Fu%3D7e06d221ca6404448c1cd46fc616126d4e390052%26v%3D4" alt="abhincoder stack visual" />
+</p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <!-- Tools & Frameworks -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
 - **AI Engineering & LLMs:** Generative AI, RAG Pipelines, Agentic Workflows, Prompt/Context Engineering, Tool Calling, LLM-as-a-Judge, MCP
