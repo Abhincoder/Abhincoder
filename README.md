@@ -26,7 +26,7 @@
 
 > Translating complex real-world data problems into scalable, production-oriented AI workflows and reliable data systems.
 
-- 🎓 **Education:** Final-year undergraduate at **IIT Dharwad** pursuing a **B.Tech in Artificial Intelligence & Data Science** alongside a **BS in Physics**.
+- 🎓 **Education:** Graduated from  **IIT Dharwad** pursued a **B.Tech in Artificial Intelligence & Data Science** alongside a **BS in Physics**.
 - 🛠️ **Core Focus:** Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI architectures, LLM evaluation pipelines, and end-to-end MLOps.
 - 💡 **Philosophy:** *Small, useful work over vague claims.* Pragmatic engineering grounded in strong statistical and algorithmic fundamentals.
 - 🏆 **Competitive Milestones:** 250+ LeetCode problems solved (Rating 1703) · IMO Zonal Rank 23 (International Rank 376) · KVPY SX Qualified (Top 5,000).
